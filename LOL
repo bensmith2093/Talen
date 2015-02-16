@@ -1,0 +1,7 @@
+#LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOL
+mo = 21
+mitch = "Small"
+
+puts "I got #{"mo"} problems but my #{"mitch"}"
+end
+#lol
