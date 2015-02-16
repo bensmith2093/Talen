@@ -1,0 +1,66 @@
+/* ============================================================
+
+Wirefy by Chris Da Sie
+Version: 3.0.3
+URL: https://github.com/cjdsie/wirefy
+Text Domain: Wirefy
+MIT License
+
+/* Import Base partial **Important Remove Partials That Aren't Needed**
+==================================================*/
+
+
+/* VENDOR - Default fall backs & external .scss files. 
+========================================================================== */
+
+@import 'vendor/_normalize.scss';
+
+/* Base - Base variable file along with starting points mixins & placeholders. ========================================================================== */
+
+@import 'base/_variables.scss';
+@import 'base/_mixins.scss';
+@import 'base/_base.scss';
+
+
+/* FRAMEWORK - Structure & layout files including the grid function. ========================================================================== */
+
+@import 'framework/_grid.scss';
+@import 'framework/_typography.scss';
+
+
+/* Helpers - Added value to each file. (Optional) 
+========================================================================== */
+
+@import 'helpers/_ie-support.scss';
+@import 'helpers/_color-palette.scss';
+@import 'helpers/_font-awesome.scss';
+@import 'helpers/_render-gradients.scss';
+
+
+/* MODULES - Individual site elements. 
+========================================================================== */
+
+@import 'modules/_animations.scss';
+@import 'modules/_transitions.scss';
+@import 'modules/_breadcrumbs.css';
+@import 'modules/_buttons.scss';
+@import 'modules/_blockquotes.scss';
+@import 'modules/_lists.scss';
+@import 'modules/_links.scss';
+@import 'modules/_pager.scss';
+@import 'modules/_pagination.scss';
+@import 'modules/_media.scss';
+@import 'modules/_slideshow.scss';
+@import 'modules/_hr.scss';
+@import 'modules/_forms.scss';
+@import 'modules/_tables.scss';
+@import 'modules/_tabs.scss';
+
+
+/* Theme - Theme styles for each area of the site. 
+========================================================================== */
+
+@import 'theme/_header.scss';
+@import 'theme/_menu.scss';
+@import 'theme/_main.scss';
+@import 'theme/_footer.scss';

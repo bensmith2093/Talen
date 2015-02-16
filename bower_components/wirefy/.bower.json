@@ -1,0 +1,36 @@
+{
+  "name": "Wirefy",
+  "main": [
+    "./css/wirefy.css",
+    "./js/plugins.min.js",
+    "./js/wirefy.js",
+    "./fonts/fontawesome-webfont.eot",
+    "./fonts/fontawesome-webfont.svg",
+    "./fonts/fontawesome-webfont.ttf",
+    "./fonts/fontawesome-webfont.woff"
+  ],
+  "ignore": [
+    "**/.*",
+    "*.html",
+    "_*",
+    "CNAME",
+    "composer.json",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.10.2",
+    "modernizr": ">= 2.6.2"
+  },
+  "private": true,
+  "homepage": "https://github.com/cjdsie/wirefy",
+  "_release": "887d2c1528",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "887d2c1528cbbb902ae8fc636a7d7bcfc5887cdf"
+  },
+  "_source": "git://github.com/cjdsie/wirefy.git",
+  "_target": "*",
+  "_originalSource": "wirefy",
+  "_direct": true
+}

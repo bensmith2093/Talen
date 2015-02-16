@@ -1,0 +1,18 @@
+/************************
+******   Links    *******
+**** Version: 0.0.1 *****
+*************************/
+
+a {
+  color: $black-70;
+  text-decoration: none;
+  outline: 0;
+
+  &:visited {
+    color: $black-70;
+    text-decoration: underline;
+    outline: 0;
+  }
+
+  @include hoveractivefocus(color, $link-color-hover);
+}

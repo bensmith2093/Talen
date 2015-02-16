@@ -1,0 +1,24 @@
+/* humanstxt.org */
+
+/* TEAM */
+
+Name: 			eg: Chris Da Sie
+Site:			eg: http://chrisdasie.com
+Twitter:		eg: @chrisdasie
+Location:		eg: Canada
+
+/* SITE */
+
+Standards: 
+
+HTML5
+CSS3
+
+Components: 
+
+Font Awesome: 		http://fortawesome.github.com/Font-Awesome
+Foundation: 		https://github.com/zurb/foundation
+jQuery: 		    http://jquery.com
+Modernizr: 		    http://modernizr.com
+Selectivizr: 		http://selectivizr.com
+Color Palette:      https://github.com/FearMediocrity/sass-color-palettes
