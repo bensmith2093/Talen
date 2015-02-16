@@ -1,8 +1,8 @@
 #LOLOLOLOLOLOLOLOLOLLOLOLOLOLOLOL
-mo = 21
+mo = 22
 mitch = "Small"
 
-puts "I got #{"mo"} problems but my #{"mitch"}"
+puts "I got #{"mo"} problems but my #{"mitch"} ain't one"
 end
 #lol
 #decided to change and not tell you
